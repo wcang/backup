@@ -1,0 +1,18 @@
+#personal stuffs
+/home/wcang/ajahn
+/home/wcang/Ajahn\ Brahmavamso
+/home/wcang/Documents
+/home/wcang/Downloads
+/home/wcang/ebook
+/home/wcang/gns3
+/home/wcang/junkcode
+/home/wcang/linux
+/home/wcang/quagga
+/home/wcang/quagga-scm
+/home/wcang/.gitconfig
+/home/wcang/.gns3
+/home/wcang/.ssh
+/home/wcang/.vim
+/home/wcang/.viminfo
+/home/wcang/.vimrc
+/home/wcang/.thunderbird

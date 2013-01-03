@@ -1,6 +1,6 @@
 #personal stuffs
 /home/wcang/ajahn
-/home/wcang/Ajahn\ Brahmavamso
+/home/wcang/Ajahn Brahmavamso
 /home/wcang/Documents
 /home/wcang/Downloads
 /home/wcang/ebook
@@ -16,3 +16,4 @@
 /home/wcang/.viminfo
 /home/wcang/.vimrc
 /home/wcang/.thunderbird
+/home/wcang/backup

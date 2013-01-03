@@ -1,3 +1,4 @@
 #user,group,list of folders to backup
 wcang,wcang,personal.txt
 root,root,kvm.txt
+root,root,system.txt

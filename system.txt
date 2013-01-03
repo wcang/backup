@@ -1,0 +1,2 @@
+#system related configuration
+/etc/hosts

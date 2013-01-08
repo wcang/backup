@@ -1,4 +1,4 @@
 backup
 ======
 
-Backup script for my personal folder
+Backup and restore script for my personal folder

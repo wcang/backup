@@ -17,3 +17,4 @@
 /home/wcang/.vimrc
 /home/wcang/.thunderbird
 /home/wcang/backup
+/home/wcang/usm
